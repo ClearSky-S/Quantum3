@@ -270,6 +270,9 @@ MonoBehaviour:
     SystemsConfig:
       Id:
         Value: 683158591465364901
+    GameConfig:
+      Id:
+        Value: 0
   UseRandomSeed: 0
   SessionConfig: {fileID: 0}
   LocalPlayers: []
