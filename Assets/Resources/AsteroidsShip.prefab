@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2846684437821293194}
   - component: {fileID: 735257500574197342}
   - component: {fileID: 3505132631167833026}
+  - component: {fileID: -8745229296350921601}
   m_Layer: 0
   m_Name: AsteroidsShip
   m_TagString: Untagged
@@ -219,6 +220,20 @@ MonoBehaviour:
   OnEntityDestroyed:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &-8745229296350921601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350206162176968642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ea0f72d09dadb4b9b8a39aef8485ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Prototype:
+    _empty_prototype_dummy_field_: 0
 --- !u!1 &1022925571227551747
 GameObject:
   m_ObjectHideFlags: 0

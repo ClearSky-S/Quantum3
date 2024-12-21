@@ -47,6 +47,11 @@ MonoBehaviour:
     StartDisabled: 0
     Children: []
   - SystemType:
+      AssemblyQualifiedName: Quantum.Asteroids.AsteroidsWaveSpawnerSystem, Quantum.Simulation
+    SystemName: 
+    StartDisabled: 0
+    Children: []
+  - SystemType:
       AssemblyQualifiedName: Quantum.Asteroids.AsteroidsShipSystem, Quantum.Simulation
     SystemName: 
     StartDisabled: 0
